@@ -1096,12 +1096,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cachethq/core.git",
-                "reference": "7e3aa929266075e25ea3985aca164e7df8843539"
+                "reference": "128fb64bd824ec8635dd924801cec5ce0abbc253"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cachethq/core/zipball/7e3aa929266075e25ea3985aca164e7df8843539",
-                "reference": "7e3aa929266075e25ea3985aca164e7df8843539",
+                "url": "https://api.github.com/repos/cachethq/core/zipball/128fb64bd824ec8635dd924801cec5ce0abbc253",
+                "reference": "128fb64bd824ec8635dd924801cec5ce0abbc253",
                 "shasum": ""
             },
             "require": {
@@ -1129,10 +1129,11 @@
             "require-dev": {
                 "dedoc/scramble": "^0.12",
                 "larastan/larastan": "^3.4",
+                "laravel/boost": "^1.0",
                 "laravel/pail": "^1.1",
                 "laravel/pint": "^1.24",
-                "orchestra/testbench": "^9.5.1",
-                "pestphp/pest": "^3.2",
+                "orchestra/testbench": "^9.15.1",
+                "pestphp/pest": "^3.8",
                 "pestphp/pest-plugin-laravel": "^3.0",
                 "pestphp/pest-plugin-livewire": "*",
                 "pestphp/pest-plugin-type-coverage": "^3.3"
@@ -1222,7 +1223,7 @@
                 "issues": "https://github.com/cachethq/core/issues",
                 "source": "https://github.com/cachethq/core"
             },
-            "time": "2025-08-18T15:37:01+00:00"
+            "time": "2025-09-13T14:14:26+00:00"
         },
         {
             "name": "carbonphp/carbon-doctrine-types",
